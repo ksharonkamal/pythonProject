@@ -43,9 +43,8 @@ class Person:
     def __repr__(self):
         return f'Person(name={self.name}, age={self.age})'
 
-
-p = Person('Pankaj', 34)
-
-print(p.__str__())
-print(p.__repr__())
+if __name__=="__main__":
+    p = Person('Pankaj', 34)
+    print(p.__str__())
+    print(p.__repr__())
 
