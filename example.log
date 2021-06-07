@@ -1,0 +1,10 @@
+2021-06-03 13:09:12,548, This is an error log
+2021-06-03 13:09:12,548, This a critical log
+WARNING:root:look before you leap
+1622706893.659049, look before you leap
+1622706982.480579,testingLogging.py, look before you leap
+1622707047.970568,testingLogging.py, <module> look before you leap
+1622707137.022038,testingLogging.py, fun look before you leap
+1622707181.251202,testingLogging.py, fun, WARNING, look before you leap
+1622707251.536475,testingLogging.py, fun, WARNING, 30, 18, look before you leap
+1622707299.990945,testingLogging.py, fun, INFO, 20, 18, look before you leap
