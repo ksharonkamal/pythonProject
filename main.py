@@ -14,3 +14,12 @@ if __name__ == '__main__':
     print_hi('PyCharm')
 
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
+
+print(round(21.49), round(16.51))
+print(round(21.5), round(16.5))
+
+i = 1
+
+print([i for i in range(5)])
+
+print(i)

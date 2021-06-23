@@ -10,6 +10,13 @@ for i in x:
     print("i={}\n".format(i))
 
 a=('a','b','c','d','e','f','g','h')
+x=slice(8,0,-3)
+print(x)
+print(type(x))
+print(a[x])
+
+a=['a','b','c','d','e','f','g','h']
 x=slice(0,8,3)
 print(x)
+print(type(x))
 print(a[x])
